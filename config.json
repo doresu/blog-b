@@ -1,13 +1,13 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
+  "base_url": "https://blog.lrdo.net/",
+  "site_title": "doresu Blog",
   "site_description": "Next.js blog template for Netlify",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Netlify"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Next.js"
     },
     {
       "keyword": "React"
@@ -15,5 +15,5 @@
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "github_account": "wutal"
 }
